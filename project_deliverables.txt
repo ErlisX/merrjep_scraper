@@ -1,0 +1,16 @@
+Merrjep real estate:
+
+Scraping: 
+Use BeautifulSoup or Scrapy to scrape real estate listings from websites 
+like Zillow or Realtor.
+
+Storage: 
+Clean and store the data in a SQL database (SQLite for simplicity or 
+PostgreSQL for a more realistic experience).
+
+Exploratory Data Analysis (EDA):
+Clean the scraped data, analyze property prices, trends, and visualize 
+data (e.g., price distributions, location-based analysis) using Pandas 
+and Matplotlib/Seaborn.
+Analyze housing affordability by region, income levels, and demographic 
+factors, and visualize trends and disparities.
